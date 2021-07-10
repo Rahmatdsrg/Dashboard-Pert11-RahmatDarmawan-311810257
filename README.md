@@ -1,6 +1,6 @@
 # Dashbord-Rahmat Darmawan-311810257
 # Tampilan Dashboard
-![image](https://user-images.githubusercontent.com/46749139/124637658-3afbeb80-deb4-11eb-9b9b-a14c0a3344d8.png)
+![Image](https://user-images.githubusercontent.com/87189840/125167822-a99abb00-e1cc-11eb-8fc0-dfbc0d578a7d.png)
 # Database Konsumen
 ![image](https://user-images.githubusercontent.com/46749139/124637172-99749a00-deb3-11eb-9ca9-44dea40af8d5.png)
 # Database Pembayaran
